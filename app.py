@@ -72,8 +72,8 @@ def PersistVersion():
 		"clickable": "yes",
 		"android_version": android_version,
 		"version": pc_version,
-		"android_url": "https://github.com/ThugRod/Card-Wars-Kingdom/releases",
-		"pc_url": "https://github.com/ThugRod/Card-Wars-Kingdom/releases",
+		"android_url": "https://github.com/GrandDad3837/Card-Wars-Kingdom-13/releases",
+		"pc_url": "https://github.com/GrandDad3837/Card-Wars-Kingdom-13/releases",
 	}
 	return json.dumps(data)
 
